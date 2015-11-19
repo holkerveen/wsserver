@@ -12,7 +12,7 @@
 //
 // After that, signaling can start. Any message sent by any client
 // will be pushed to all other clients.
-package main
+package wssrv
 
 import (
 	"net/http"
